@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d674ed02f99542fba20902c06123669d, type: 3}
+  m_Name: Cat Lady Skin
+  m_EditorClassIdentifier: 
+  HeadVariant:
+    Sprites:
+    - {fileID: -1858957098, guid: e9dd8512e7a5547cdb88ccb10fecab84, type: 3}
+    - {fileID: 557401081, guid: e9dd8512e7a5547cdb88ccb10fecab84, type: 3}
+  SegmentVariants:
+  - Sprites:
+    - {fileID: -654175702, guid: dd94db728d4f1406baeec5b5b68349cb, type: 3}
+    - {fileID: 819116309, guid: dd94db728d4f1406baeec5b5b68349cb, type: 3}
+  - Sprites:
+    - {fileID: 1042036454, guid: 64e5d41f3b3c84648bddfead170bc830, type: 3}
+    - {fileID: -2131152299, guid: 64e5d41f3b3c84648bddfead170bc830, type: 3}
+  - Sprites:
+    - {fileID: -1499532247, guid: 19470484c8b3c42c7a29dc748815df85, type: 3}
+    - {fileID: -1542545760, guid: 19470484c8b3c42c7a29dc748815df85, type: 3}
+  - Sprites:
+    - {fileID: -2019672783, guid: 3cb2eb09b62154447acc8904fa0fc8d3, type: 3}
+    - {fileID: -1583606460, guid: 3cb2eb09b62154447acc8904fa0fc8d3, type: 3}

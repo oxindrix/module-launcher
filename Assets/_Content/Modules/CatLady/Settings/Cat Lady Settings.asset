@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20ddab50d850472f98335d87178e91c0, type: 3}
+  m_Name: Cat Lady Settings
+  m_EditorClassIdentifier: 
+  GameSettings:
+    SpeedIncrement: 0.1
+    BaseSpeed: 1.5
+    GridSize: {x: 10, y: 10}
+    StartSegmentsCount: 0
+    SkinSettings: {fileID: 11400000, guid: 7a0e8b275050442cb9b9e1bcdba98e8d, type: 2}
+  Hud: {fileID: 6282808525334487033, guid: c04f2414391b142a6aedb3fa000161bd, type: 3}
+  Location: {fileID: 1836917575603935097, guid: 944e6673d40864ec1aa36979ab54f88d, type: 3}

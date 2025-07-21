@@ -1,0 +1,3 @@
+[submodule "Assets/_Content/Scripts/General"]
+	path = Assets/_Content/Scripts/General
+	url = git@github.com:oxindrix/general-package.git
